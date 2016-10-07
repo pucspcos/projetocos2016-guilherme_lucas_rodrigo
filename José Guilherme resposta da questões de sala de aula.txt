@@ -1,0 +1,13 @@
+1. O que vocês colaborariam para o desenvolvimento da ferramenta Open Source? 
+
+Se acharem interessante colaborem postando ideias e verificando o que a comunidade já pensou ou planejou.
+
+R-Desenvolveria o codigo da ferramenta tentando deixar ele o mais efeciente possivel, desenvolveria a interface deixando ela o mais clara possivel e comentaria as ideias que eu achar interessantes ou já implementadas no projeto
+
+2. O que a ferramenta pode ajudar em benefícios para o desenvolvimento do projeto?
+
+R-Pode ajudar na base do projeto ou seja na criação dos elementos basicos que compoem a obra final como modelos 3d, texturas, scripts
+
+3. O que a ferramenta complementa outras ferramentas não Open Source?
+
+R- Ela pode ajudar o desenvolvedor a continuar seu trabalho fora do aplicativo não open source pois a ferramenta será portatil acelerando e facilidando o trabalho de criação do projeto
