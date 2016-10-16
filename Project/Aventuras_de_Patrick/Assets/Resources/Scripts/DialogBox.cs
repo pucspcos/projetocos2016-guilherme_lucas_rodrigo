@@ -5,7 +5,6 @@ using System.Collections;
 public class DialogBox : MonoBehaviour {
 
     #region attributes
-    public GameData gamedata;
     public GameController gamecontroller;
     public Scene scene;
     public Dialog dialog;
@@ -48,8 +47,6 @@ public class DialogBox : MonoBehaviour {
 
     void Awake()
     {
-        if(gamedata == null)
-            gamedata = GameObject.Find("GameData").GetComponent<GameData>();
         if (gamecontroller == null)
             gamecontroller = GameObject.Find("GameController").GetComponent<GameController>();
         if (dialogbox == null)
@@ -169,7 +166,7 @@ public class DialogBox : MonoBehaviour {
 
     public void Processed()
     {
-        if (dialogbox.gameObject.activeInHierarchy && !gamecontroller.pausemenu.gameObject.activeInHierarchy)
+        if (dialogbox.gameObject.activeInHierarchy)
         {
             if (onclickenddialog)
                 scene.scenestate = Scene.state.interaction;
@@ -209,11 +206,7 @@ public class DialogBox : MonoBehaviour {
         }
         else
         {
-            if (!gamecontroller.pausemenu.gameObject.activeInHierarchy)
-            {
-                Debug.Log("DialogBox not active can�t procced with dialog");
-                EndDialog();
-            }
+            EndDialog();
         }
     }
 
@@ -233,41 +226,36 @@ public class DialogBox : MonoBehaviour {
         dialog.isanswermoment = false;
         answerbox.SetActive(false);
     }
-    public void OnAnswerGainAffinity(AnswerButton AnswerButton)
-    {
-        if (gamecontroller.player.currentactoraffinity < 100)
-        {
-            gamecontroller.player.currentactoraffinity += AnswerButton.currentvalue;
-            Debug.Log("Você ganhou " + AnswerButton.currentvalue + " pontos de affinidade com " + gamecontroller.player.playercurrentactor);
-        }
-        SetAnswerButtonsValue(0, 0, 0);
-    }
     public void OnAnswerChangeNextDialog(AnswerButton AnswerButton)
     {
         lastanswerid = AnswerButton.answerbuttonid;
         Debug.Log("Respondeu " + lastanswerid);
         nextdialog = AnswerButton.nextdialog;
         Debug.Log("NextDialog" + nextdialog);
-        //currentdialog = nextdialog;
-        //RestartDialog();
-        //dialog.ChangeDialogText();
     }
-
+    public void OnAnswerChangeNextScene(AnswerButton AnswerButton)
+    {
+        gamecontroller.nextscene = AnswerButton.nextscene;
+        Debug.Log("NextScene" + AnswerButton.nextscene);
+    }
     #endregion
 
     #region Methods for answersButtons
-    public void SetAnswerButtonsValue(int NewAnswerButton0Value,int NewAnswerButton1Value,int NewAnswerButton2Value)
-    {
-        answersbuttons[0].currentvalue = NewAnswerButton0Value;
-        answersbuttons[1].currentvalue = NewAnswerButton1Value;
-        answersbuttons[2].currentvalue = NewAnswerButton2Value;
-    }
+
     public void AnswerButtonsSetNextDialog(int AnswerButton0NextDialog, int AnswerButton1NextDialog, int AnswerButton2NextDialog)
     {
         answersbuttons[0].nextdialog = AnswerButton0NextDialog;
         answersbuttons[1].nextdialog = AnswerButton1NextDialog;
         answersbuttons[2].nextdialog = AnswerButton2NextDialog;
     }
+
+    public void AnswerButtonsSetNextScene(int AnswerButton0NextScene, int AnswerButton1NextScene, int AnswerButton2NextScene)
+    {
+        answersbuttons[0].nextscene = AnswerButton0NextScene;
+        answersbuttons[1].nextscene = AnswerButton1NextScene;
+        answersbuttons[2].nextscene = AnswerButton2NextScene;
+    }
+
     #endregion
 
     #endregion

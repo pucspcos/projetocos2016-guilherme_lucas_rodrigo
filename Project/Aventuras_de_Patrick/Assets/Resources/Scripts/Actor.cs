@@ -10,7 +10,6 @@ public class Actor : MonoBehaviour {
 
     public string actorbio;
 
-    public int affinitypoints;
     public int[] dialoglines;
 
     public bool hasdialog;

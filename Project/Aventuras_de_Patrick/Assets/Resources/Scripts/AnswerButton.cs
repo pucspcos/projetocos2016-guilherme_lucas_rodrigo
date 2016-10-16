@@ -10,8 +10,8 @@ public class AnswerButton : MonoBehaviour {
 
     public int answerbuttonid;
     public int nextdialog;
-    public int currentvalue;
-
+    public int nextscene;
+    
     #endregion
 
     #region Methods
@@ -20,9 +20,9 @@ public class AnswerButton : MonoBehaviour {
     {
         nextdialog = NextDialog;
     }
-    public void ButtonSetValue(int Value)
+    public void ButtonSetNextScene(int NextScene)
     {
-        currentvalue = Value;
+        nextscene = NextScene;
     }
 
     #endregion
