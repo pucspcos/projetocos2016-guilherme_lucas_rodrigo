@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class GameController : MonoBehaviour {
@@ -55,6 +56,8 @@ public class GameController : MonoBehaviour {
 
         SetScenesName();
 
+        SetActorSprite();
+
         dialogbox.scene = scenes[currentscene];
 
         canprogress = true;
@@ -99,6 +102,8 @@ public class GameController : MonoBehaviour {
 
         AdjustDialogDisplayBoxToNextDialog();
 
+        AdjustDialogDisplayBoxToNextScene();
+
         dialogbox.scene = scenes[currentscene];
 
         #endregion
@@ -141,6 +146,15 @@ public class GameController : MonoBehaviour {
 
     #region Dialog Methods
 
+    #region Dialog Speaker Methods
+
+    void UpdateSpeakerName()
+    {
+
+    }
+
+    #endregion
+
     #region Dialog Answer Methods
     //method that prepare dialog for a answer moment and alert when is the moment of give the object
     void PrepareAnswersMoments()
@@ -149,7 +163,7 @@ public class GameController : MonoBehaviour {
         {
             if (dialogbox.currentdialog == 0)
             {
-                if (dialogbox.dialog.currentdialogline >= dialogbox.dialog.enddialogatline)
+                if (dialogbox.dialog.currentdialogline == 3)
                 {
                     if (!dialogbox.hasanswered)
                         dialogbox.dialog.isanswermoment = true;
@@ -227,11 +241,11 @@ public class GameController : MonoBehaviour {
     {
         for(int i = 0; i < actors.Length; i ++)
         {
-            if (actors[i].name == "Enzo")
+            if (actors[i].name == "Patrick")
             {
                 if (currentscene == 0)
                     if (dialogbox.currentdialog == 0)
-                        actors[i].dialoglines = new int[5] { 3, 4, 5, 6, 7 };
+                        actors[i].dialoglines = new int[4] { 0, 1, 2, 3 };
                     else { actors[i].dialoglines = new int[0]; }
                 if (currentscene == 1)
                     if (dialogbox.currentdialog == 0)
@@ -242,7 +256,33 @@ public class GameController : MonoBehaviour {
                         actors[i].dialoglines = new int[5] { 2, 3, 4, 5, 6 };
                     else { actors[i].dialoglines = new int[0]; }
             }
+            if(actors[i].name == "Homem de Capuz")
+            {
+                if (currentscene == 3)
+                {
+                    if (dialogbox.currentdialog == 1)
+                        actors[i].dialoglines = new int[3] { 0, 1, 2 };
+                    else { actors[i].dialoglines = new int[0]; }
+                    if (dialogbox.currentdialog == 2)
+                        actors[i].dialoglines = new int[3] { 0, 1, 2 };
+                    else { actors[i].dialoglines = new int[0]; }
+                }
+            }
+            if (actors[i].name == "Vizinho de Patrick")
+            {
+                if (currentscene == 6)
+                {
+                    if (dialogbox.currentdialog == 0)
+                        actors[i].dialoglines = new int[1] { 7 };
+                    else { actors[i].dialoglines = new int[0]; }
+                }
+            }
         }
+    }
+    void SetActorSprite()
+    {
+        foreach (Actor actor in actors)
+            actor.gameObject.GetComponent<Image>().sprite = actor.actorimage;
     }
     #endregion
 

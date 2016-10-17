@@ -1,0 +1,5100 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     192 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Files\Seagate Files\Github\Git\projetocos2016-guilherme_lucas_rodrigo\Executavel\Aventuras de Patrick_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Files\Seagate Files\Github\Git\projetocos2016-guilherme_lucas_rodrigo\Executavel\Aventuras de Patrick_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Files\Seagate Files\Github\Git\projetocos2016-guilherme_lucas_rodrigo\Executavel\Aventuras de Patrick_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Files\Seagate Files\Github\Git\projetocos2016-guilherme_lucas_rodrigo\Executavel\Aventuras de Patrick_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Files\Seagate Files\Github\Git\projetocos2016-guilherme_lucas_rodrigo\Executavel\Aventuras de Patrick_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Files\Seagate Files\Github\Git\projetocos2016-guilherme_lucas_rodrigo\Executavel\Aventuras de Patrick_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.151 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Files\Seagate Files\Github\Git\projetocos2016-guilherme_lucas_rodrigo\Executavel\Aventuras de Patrick_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Files\Seagate Files\Github\Git\projetocos2016-guilherme_lucas_rodrigo\Executavel\Aventuras de Patrick_Data\Managed\System.dll (this message is harmless)
+Scene Behaviour Scene4 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene11 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Homem Do Capuz has enter in scene for dialog 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene8 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene7 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DialogDisplayBox active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Dialog active 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene9 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene6 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Vizinho De Patrick has enter in scene for dialog 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene3 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene10 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene5 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+No movies to upload
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Patrick has enter in scene for dialog 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene1 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene2 Active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Game Controller active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene1 ID equal 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene2 ID equal 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene3 ID equal 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene4 ID equal 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene5 ID equal 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene6 ID equal 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene7 ID equal 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene8 ID equal 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene9 ID equal 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene10 ID equal 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Scene11 ID equal 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Patrick Acorda Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Casa Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Casa Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Casa Da Arvore Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene  Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene  Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene  Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene  Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene  Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene  Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene  Avaliable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Homem Do Capuz has left the scene 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Vizinho De Patrick has left the scene 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Respondeu 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NextDialog2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+NextScene2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+New Dialog: Droga...
+São 9:30 perdi a hora de ir para a escola
+agora não sei se vou e chego para a segunda aula ou nao vou e fico na casa da arvore até minha mãe chegar
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Patrick has left the scene 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Dialog Disable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DialogDisplayBox disactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Dialog active Vou indo ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DialogDisplayBox active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+New Dialog: Vou indo ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+You has go to scene1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Dialog Disable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DialogDisplayBox disactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Dialog active Vou indo ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DialogDisplayBox active
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Patrick has enter in scene for dialog 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+New Dialog: Droga, droga, droga onde esta a mochila?
+...
+aqui que horas são agora?
+...
+acho melhor nem olhar, estou indo para escola
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DialogBox.DialogUpdate () [0x00000] in <filename unknown>:0 
+  at GameController.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Patrick has left the scene 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene7 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene6 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Dialog Disable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene1 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene5 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Game Controller disactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+DialogDisplayBox disactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene4 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene11 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene8 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene10 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene3 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene2 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Scene Behaviour Scene9 Desactive
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+

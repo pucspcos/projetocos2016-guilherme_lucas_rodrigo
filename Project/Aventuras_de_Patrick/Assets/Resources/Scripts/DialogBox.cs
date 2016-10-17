@@ -10,6 +10,8 @@ public class DialogBox : MonoBehaviour {
     public Dialog dialog;
     public GameObject dialogbox;
     public Text text;
+    public GameObject speakerbox;
+    public Text speakernametext;
     public GameObject answerbox;
     public AnswerButton[] answersbuttons;
 
