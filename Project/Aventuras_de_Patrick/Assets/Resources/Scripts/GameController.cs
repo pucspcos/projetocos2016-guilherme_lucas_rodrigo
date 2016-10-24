@@ -4,9 +4,19 @@ using System.Collections;
 
 public class GameController : MonoBehaviour {
 
+    #region Actor Reference
+
+    private const string patrickreference = "Patrick";
+    private const string developersreference = "Desenvolvedores";
+    private const string homemDeCapuzreference = "Homem do capuz";
+    private const string vizinhoreference = "Joaquim o vizinho";
+
+    #endregion
+
     #region Attributes
 
     public Player player;
+    public Animator deathanimator;
     public LiveBackground livebackground;
     public Background background;
     public DialogBox dialogbox;
@@ -96,6 +106,8 @@ public class GameController : MonoBehaviour {
         #endregion
         #region Dialog Control
 
+        UpdateSpeakerName();
+
         PrepareAnswersMoments();
 
         dialogbox.DialogUpdate();
@@ -121,15 +133,17 @@ public class GameController : MonoBehaviour {
 
         #endregion
         #region Scene Control
-        
-        ManageScenes();
+
+        TimeToSetScene();
 
         #endregion
         #region Game Control
 
         CheckIfTheDialogEndGoToNextScene();
 
-        //GoToGameSceneWhen();
+        NavegateScenes();
+
+        CheckGameOverPlayDeathAnimationAndEndGame();
 
         #endregion
         #region Player Control
@@ -150,7 +164,64 @@ public class GameController : MonoBehaviour {
 
     void UpdateSpeakerName()
     {
-
+        switch (currentscene)
+        {
+            case 0:
+                dialogbox.SetSpeaker(patrickreference);
+                break;
+            case 1:
+                dialogbox.SetSpeaker(patrickreference);
+                break;
+            case 2:
+                dialogbox.SetSpeaker(patrickreference);
+                break;
+            case 3:
+                if (dialogbox.currentdialog == 0)
+                {
+                    if (dialogbox.dialog.currentdialogline == 0
+                        || dialogbox.dialog.currentdialogline == 1
+                        || dialogbox.dialog.currentdialogline == 2
+                        || dialogbox.dialog.currentdialogline == 3
+                        || dialogbox.dialog.currentdialogline == 4
+                        || dialogbox.dialog.currentdialogline == 5
+                        || dialogbox.dialog.currentdialogline == 7
+                        || dialogbox.dialog.currentdialogline == 9
+                        || dialogbox.dialog.currentdialogline == 11
+                        || dialogbox.dialog.currentdialogline == 14
+                        || dialogbox.dialog.currentdialogline == 15
+                        || dialogbox.dialog.currentdialogline == 16
+                        || dialogbox.dialog.currentdialogline == 17
+                        || dialogbox.dialog.currentdialogline == 20)
+                        dialogbox.SetSpeaker(patrickreference);
+                    if (dialogbox.dialog.currentdialogline == 6
+                        || dialogbox.dialog.currentdialogline == 8
+                        || dialogbox.dialog.currentdialogline == 10
+                        || dialogbox.dialog.currentdialogline == 12
+                        || dialogbox.dialog.currentdialogline == 19)
+                        dialogbox.SetSpeaker(developersreference);
+                }
+                break;
+            case 4:
+                dialogbox.SetSpeaker(homemDeCapuzreference);
+                break;
+            case 5:
+                dialogbox.SetSpeaker(patrickreference);
+                break;
+            case 6:
+                dialogbox.SetSpeaker(patrickreference);
+                break;
+            case 7:
+                dialogbox.SetSpeaker(patrickreference);
+                break;
+            case 8:
+                break;
+            case 9:
+                break;
+            case 10:
+                break;
+            case 11:
+                break;
+        }
     }
 
     #endregion
@@ -159,20 +230,63 @@ public class GameController : MonoBehaviour {
     //method that prepare dialog for a answer moment and alert when is the moment of give the object
     void PrepareAnswersMoments()
     {
-        if (currentscene == 0)
+        switch (currentscene)
         {
-            if (dialogbox.currentdialog == 0)
-            {
-                if (dialogbox.dialog.currentdialogline == 3)
-                {
-                    if (!dialogbox.hasanswered)
-                        dialogbox.dialog.isanswermoment = true;
-                }
-                else
-                {
-                    dialogbox.hasanswered = false;
-                }
-            }
+            case 0:
+                if (dialogbox.currentdialog == 0)
+                    if (dialogbox.dialog.currentdialogline == 3)
+                    {
+                        if (!dialogbox.hasanswered)
+                            dialogbox.dialog.isanswermoment = true;
+                    }
+                    else { dialogbox.hasanswered = false; }
+                break;
+            case 3:
+                if (dialogbox.currentdialog == 0)
+                    if (dialogbox.dialog.currentdialogline == 21)
+                    {
+                        if (!dialogbox.hasanswered)
+                            dialogbox.dialog.isanswermoment = true;
+                    }
+                    else { dialogbox.hasanswered = false; }
+                break;
+            case 4:
+                if (dialogbox.currentdialog == 0)
+                    if (dialogbox.dialog.currentdialogline == 3)
+                    {
+                        if (!dialogbox.hasanswered)
+                            dialogbox.dialog.isanswermoment = true;
+                    }
+                    else
+                    { dialogbox.hasanswered = false; }
+                break;
+            case 6:
+                if (dialogbox.currentdialog == 0)
+                    if (dialogbox.dialog.currentdialogline == 6)
+                    {
+                        if (!dialogbox.hasanswered)
+                            dialogbox.dialog.isanswermoment = true;
+                    }
+                    else { dialogbox.hasanswered = false; }
+                break;
+            case 7:
+                if (dialogbox.currentdialog == 0)
+                    if (dialogbox.dialog.currentdialogline == 1)
+                    {
+                        if (!dialogbox.hasanswered)
+                            dialogbox.dialog.isanswermoment = true;
+                    }
+                    else { dialogbox.hasanswered = false; }
+                break;
+            case 8:
+                if (dialogbox.currentdialog == 0)
+                    if (dialogbox.dialog.currentdialogline == 6)
+                    {
+                        if (!dialogbox.hasanswered)
+                            dialogbox.dialog.isanswermoment = true;
+                    }
+                    else { dialogbox.hasanswered = false; }
+                break;
         }
     }
 
@@ -183,16 +297,74 @@ public class GameController : MonoBehaviour {
     //method that adjust next dialog for current dialog not value has the final dialog causing the dialog to end
     void AdjustDialogDisplayBoxToNextDialog()
     {
-        if (currentscene == 0)
+        switch (currentscene)
         {
-            if (dialogbox.currentdialog == 0)
-            {
-                if (dialogbox.lastanswerid < 0)
+            case 0:
+                if (dialogbox.currentdialog == 0)
                 {
-                    dialogbox.nextdialog = dialogbox.endatdialog;
-                    dialogbox.AnswerButtonsSetNextDialog(1, 2, 3);
+                    if (dialogbox.lastanswerid < 0)
+                    {
+                        dialogbox.nextdialog = dialogbox.endatdialog;
+                        dialogbox.AnswerButtonsSetNextDialog(1, 2, 3);
+                    }
                 }
-            }
+                break;
+            case 1:
+                dialogbox.nextdialog = dialogbox.endatdialog;
+                break;
+            case 2:
+                dialogbox.nextdialog = dialogbox.endatdialog;
+                break;
+            case 3:
+                if (dialogbox.currentdialog == 0)
+                {
+                    if (dialogbox.lastanswerid < 0)
+                    {
+                        dialogbox.nextdialog = dialogbox.endatdialog;
+                        dialogbox.AnswerButtonsSetNextDialog(1, 2, 3);
+                    }
+                }
+                else if(dialogbox.currentdialog == 1)
+                {
+                    if (dialogbox.dialog.currentdialogline < 3)
+                        dialogbox.nextdialog = dialogbox.endatdialog;
+                    else
+                    {
+                        dialogbox.nextdialog = dialogbox.currentdialog;
+                    }
+                }
+                else if(dialogbox.dialog.currentdialogline == 2)
+                {
+                    if (dialogbox.dialog.currentdialogline < 3)
+                        dialogbox.nextdialog = dialogbox.endatdialog;
+                    else
+                    {
+                        dialogbox.nextdialog = dialogbox.currentdialog;
+                    }
+                }
+                break;
+            case 4:
+                if(dialogbox.currentdialog == 0)
+                {
+                    if (dialogbox.lastanswerid < 0)
+                    {
+                        dialogbox.nextdialog = dialogbox.endatdialog;
+                        dialogbox.AnswerButtonsSetNextDialog(1, 1, 0);
+                    }
+                }
+                break;
+            case 5:
+                break;
+            case 6:
+                break;
+            case 7:
+                break;
+            case 8:
+                break;
+            case 9:
+                break;
+            case 10:
+                break;
         }
     }
 
@@ -202,25 +374,62 @@ public class GameController : MonoBehaviour {
 
     void AdjustDialogDisplayBoxToNextScene()
     {
-        if(currentscene == 0)
+        switch (currentscene)
         {
-            if(dialogbox.currentdialog == 0)
-            {
-                if(dialogbox.dialog.currentdialogline <= dialogbox.dialog.enddialogatline)
+            case 0:
+                if (dialogbox.currentdialog == 0)
                 {
-                    dialogbox.AnswerButtonsSetNextScene(1, 2, 0);
+                    if (dialogbox.dialog.currentdialogline <= dialogbox.dialog.enddialogatline)
+                    {
+                        dialogbox.AnswerButtonsSetNextScene(1, 2, 0);
+                    }
                 }
-            }
-        }
-        if(currentscene == 1)
-        {
-            if(dialogbox.currentdialog == 0)
-            {
-                if(dialogbox.dialog.currentdialogline <= dialogbox.dialog.enddialogatline)
+                break;
+            case 3:
+                if (dialogbox.currentdialog == 0)
                 {
-                    dialogbox.AnswerButtonsSetNextScene(3, 4, 0);
+                    if (dialogbox.dialog.currentdialogline <= dialogbox.dialog.enddialogatline)
+                    {
+                        dialogbox.AnswerButtonsSetNextScene(7, 7, 0);
+                    }
                 }
-            }
+                break;
+            case 4:
+                if (dialogbox.currentdialog == 0)
+                {
+                    if (dialogbox.dialog.currentdialogline <= dialogbox.dialog.enddialogatline)
+                    {
+                        dialogbox.AnswerButtonsSetNextScene(5, 6, 0);
+                    }
+                }
+                break;
+            case 6:
+                if (dialogbox.currentdialog == 0)
+                {
+                    if (dialogbox.dialog.currentdialogline <= dialogbox.dialog.enddialogatline)
+                    {
+                        dialogbox.AnswerButtonsSetNextScene(10, 8, 0);
+                    }
+                }
+                break;
+            case 7:
+                if (dialogbox.currentdialog == 0)
+                {
+                    if (dialogbox.dialog.currentdialogline <= dialogbox.dialog.enddialogatline)
+                    {
+                        dialogbox.AnswerButtonsSetNextScene(9, 8, 0);
+                    }
+                }
+                break;
+            case 8:
+                if (dialogbox.currentdialog == 0)
+                {
+                    if (dialogbox.dialog.currentdialogline <= dialogbox.dialog.enddialogatline)
+                    {
+                        dialogbox.AnswerButtonsSetNextScene(9, 10, 0);
+                    }
+                }
+                break;
         }
     }
 
@@ -239,42 +448,55 @@ public class GameController : MonoBehaviour {
     }
     void PrepareActorDialogLines()
     {
-        for(int i = 0; i < actors.Length; i ++)
+        for (int i = 0; i < actors.Length; i++)
         {
             if (actors[i].name == "Patrick")
             {
-                if (currentscene == 0)
-                    if (dialogbox.currentdialog == 0)
-                        actors[i].dialoglines = new int[4] { 0, 1, 2, 3 };
-                    else { actors[i].dialoglines = new int[0]; }
-                if (currentscene == 1)
-                    if (dialogbox.currentdialog == 0)
-                        actors[i].dialoglines = new int[5] { 3, 4, 5, 6, 7 };
-                    else { actors[i].dialoglines = new int[0]; }
-                if (currentscene == 7)
-                    if (dialogbox.currentdialog == 0)
-                        actors[i].dialoglines = new int[5] { 2, 3, 4, 5, 6 };
-                    else { actors[i].dialoglines = new int[0]; }
-            }
-            if(actors[i].name == "Homem de Capuz")
-            {
-                if (currentscene == 3)
+                switch (currentscene)
                 {
-                    if (dialogbox.currentdialog == 1)
-                        actors[i].dialoglines = new int[3] { 0, 1, 2 };
-                    else { actors[i].dialoglines = new int[0]; }
-                    if (dialogbox.currentdialog == 2)
-                        actors[i].dialoglines = new int[3] { 0, 1, 2 };
-                    else { actors[i].dialoglines = new int[0]; }
+                    case 0:
+                        if (dialogbox.currentdialog == 0)
+                            actors[i].dialoglines = new int[4] { 0, 1, 2, 3 };
+                        else { actors[i].dialoglines = new int[0]; }
+                        break;
+                    case 1:
+                        if (dialogbox.currentdialog == 0)
+                            actors[i].dialoglines = new int[5] { 3, 4, 5, 6, 7 };
+                        else { actors[i].dialoglines = new int[0]; }
+                        break;
                 }
             }
-            if (actors[i].name == "Vizinho de Patrick")
+            if (actors[i].name == "Homem de Capuz")
             {
-                if (currentscene == 6)
+                switch (currentscene)
                 {
-                    if (dialogbox.currentdialog == 0)
-                        actors[i].dialoglines = new int[1] { 7 };
-                    else { actors[i].dialoglines = new int[0]; }
+                    case 0:
+                        if (dialogbox.currentdialog == 0)
+                            actors[i].dialoglines = new int[4] { 0, 1, 2, 3 };
+                        else { actors[i].dialoglines = new int[0]; }
+                        break;
+                    case 1:
+                        if (dialogbox.currentdialog == 0)
+                            actors[i].dialoglines = new int[5] { 3, 4, 5, 6, 7 };
+                        else { actors[i].dialoglines = new int[0]; }
+                        break;
+
+                }
+                if (actors[i].name == "Vizinho de Patrick")
+                {
+                    switch (currentscene)
+                    {
+                        case 0:
+                            if (dialogbox.currentdialog == 0)
+                                actors[i].dialoglines = new int[4] { 0, 1, 2, 3 };
+                            else { actors[i].dialoglines = new int[0]; }
+                            break;
+                        case 1:
+                            if (dialogbox.currentdialog == 0)
+                                actors[i].dialoglines = new int[5] { 3, 4, 5, 6, 7 };
+                            else { actors[i].dialoglines = new int[0]; }
+                            break;
+                    }
                 }
             }
         }
@@ -305,80 +527,22 @@ public class GameController : MonoBehaviour {
                 case 0: scenes[i].scenename = "Patrick Acorda"; break;
                 case 1: scenes[i].scenename = "Casa"; break;
                 case 2: scenes[i].scenename = "Casa"; break;
-                case 3: scenes[i].scenename = "Casa Da Arvore"; break;
-                case 4: scenes[i].scenename = ""; break;
-                case 5: scenes[i].scenename = ""; break;
-                case 6: scenes[i].scenename = ""; break;
-                case 7: scenes[i].scenename = ""; break;
-                case 8: scenes[i].scenename = ""; break;
-                case 9: scenes[i].scenename = ""; break;
-                case 10: scenes[i].scenename = ""; break;
-                case 11: scenes[i].scenename = ""; break;
+                case 3: scenes[i].scenename = "Escola"; break;
+                case 4: scenes[i].scenename = "Casa"; break;
+                case 5: scenes[i].scenename = "Casa na arvore"; break;
+                case 6: scenes[i].scenename = "Outro Lado da Rua"; break;
+                case 7: scenes[i].scenename = "Pedido de ajuda"; break;
+                case 8: scenes[i].scenename = "Casa do vizinho"; break;
+                case 9: scenes[i].scenename = "Conversa dentro da casa do homem"; break;
+                case 10: scenes[i].scenename = "Morte do patrick"; break;
+                case 11: scenes[i].scenename = "Morte do patrick e de Joaquim"; break;
             }
             Debug.Log("Scene " + scenes[i].scenename + " Avaliable");
         }
     }
 
-    /*
-    void ActiveCurrentSceneAndDisableOthers()
-    {
-        for (int i = 0; i < scenes.Length; i++)
-            if (scenes[i].sceneid == currentscene)
-                scenes[i].gameObject.SetActive(true);
-            else { scenes[i].gameObject.SetActive(false); }
-    }
-    */
-    /*
-    void UpdateSceneBehaviours()
-    {
-
-        for (int i = 0; i < scenes.Length; i++)
-            if (scenes[i].gameObject.activeInHierarchy)
-                if(scenes[i].GetComponent<SceneBehaviour>() != null)
-                    scenes[i].GetComponent<SceneBehaviour>().UpdateSceneBehaviour();                
-    }
-    */
-
-    void ManageScenes()
-    {
-        if (currentscene == 0)
-            OnDialogEndGoTo(1);
-
-        if (currentscene == 3)
-        {
-            if (dialogbox.currentdialog >= 1 && dialogbox.currentdialog <= 2)
-            {
-                OnDialogEndGoTo(4);
-            }
-            if(dialogbox.currentdialog == 3)
-            {
-                OnDialogEndGoTo(6);
-            }
-        }
-
-        if (currentscene == 5)
-        {
-            TimeToSetScene();
-            OnDialogEndGoTo(6);
-        }
-
-        if (currentscene == 6)
-        {
-            OnTimeEndGoTo(7);
-        }
-    }
-
     #region Scene progression Cases Methods
 
-    void OnDialogEndGoTo(int SceneToGo)
-    {
-        if (canprogress && !dialogbox.gameObject.activeInHierarchy)
-        {
-            currentscene = SceneToGo;
-            dialogbox.StartDialog(0);
-            Debug.Log("You has go to scene" + SceneToGo);
-        }
-    }
     void TimeToSetScene()
     {
         SceneBehaviour currentscenebehaviour;
@@ -389,7 +553,7 @@ public class GameController : MonoBehaviour {
         {
             scenes[currentscene].gameObject.AddComponent<SceneBehaviour>();
             currentscenebehaviour = scenes[currentscene].GetComponent<SceneBehaviour>();
-            currentscenebehaviour.timertostart = 100;
+            currentscenebehaviour.timertostart = 50;
         }
 
         if (currentscenebehaviour != null)
@@ -399,7 +563,7 @@ public class GameController : MonoBehaviour {
                 currentscenebehaviour.timertostart--;
                 if (canprogress == true)
                     canprogress = false;
-                Debug.Log("Tempo para liberar progress�o " + currentscenebehaviour.timertostart);
+                Debug.Log("Tempo para liberar progresso " + currentscenebehaviour.timertostart);
             }
             else
             {
@@ -410,25 +574,6 @@ public class GameController : MonoBehaviour {
         }
         else { Debug.LogError("No SceneBehaviour on scene " + currentscene); }
     }
-    void OnTimeEndGoTo(int SceneToGo)
-    {
-        SceneBehaviour currentscenebehaviour;
-
-        currentscenebehaviour = scenes[currentscene].GetComponent<SceneBehaviour>();
-
-            if (canprogress && currentscenebehaviour.timertogo > 0)
-            {
-                currentscenebehaviour.timertogo--;
-                Debug.Log("Tempo para acontecer proximo evento " + currentscenebehaviour.timertogo);
-            }
-            else
-            {
-                currentscene = SceneToGo;
-                dialogbox.StartDialog(0);
-                Debug.Log("You has go to Scene " + SceneToGo);
-            }
-
-    }
 
     #endregion
 
@@ -436,61 +581,57 @@ public class GameController : MonoBehaviour {
 
     #region Game Methods
 
+    #region Death Methods
+
+    public void CheckGameOverPlayDeathAnimationAndEndGame()
+    {
+        float deathtimer = 1000f;
+
+        if (currentscene == 9 || currentscene == 10)
+            if (dialogbox.dialog.currentdialogline == 4)
+                deathanimator.SetBool("Death", true);
+        
+        if (deathanimator.GetBool("Death") == true)
+        {
+            deathtimer--;
+            if(deathtimer <= 0)
+                Application.Quit();
+        }
+    }
+
+    #endregion
+
     #region CheckIfTheDialoghasEndGoToNextScene
 
     void CheckIfTheDialogEndGoToNextScene()
     {
         if (scenes[currentscene].scenestate == Scene.state.interaction)
+        {
+            dialogbox.StartDialog(0);
             currentscene = nextscene;
+        }
     }
-
     #endregion
 
-    #region Navegation Methods
-    void GoToGameSceneWhen()
+    #region Navegate Trougth Scenes
+
+    void NavegateScenes()
     {
         switch(currentscene)
         {
-            case 0:
-                if (dialogbox.currentdialog == 1)
-                {
-                    if (dialogbox.dialog.currentdialogline == dialogbox.dialog.enddialogatline)
-                    {
-                        currentscene = 1;
-                    }
-                }
-                if (dialogbox.currentdialog == 2)
-                {
-                    if (dialogbox.dialog.currentdialogline == dialogbox.dialog.enddialogatline)
-                    {
-                        currentscene = 2;
-                    }
-                }
-                break;
             case 1:
+                nextscene = 3;
                 break;
             case 2:
-                break;
-            case 3:
-                break;
-            case 4:
+                nextscene = 4;
                 break;
             case 5:
+                nextscene = 6;
                 break;
-            case 6:
-                break;
-            case 7:
-                break;
-            case 8:
-                break;
-            case 9:
-                break;
-            case 10:
-                break;
-            case 11:
-                break;
+
         }
     }
+
     #endregion
 
     #endregion

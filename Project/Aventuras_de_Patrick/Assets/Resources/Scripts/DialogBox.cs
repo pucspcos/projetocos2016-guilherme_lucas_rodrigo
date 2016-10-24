@@ -115,6 +115,15 @@ public class DialogBox : MonoBehaviour {
 
     #region methods for adjust dialogbox and dialog
 
+    #region Dialog Set Speaker Methods
+
+    public void SetSpeaker(string NewSpeaker)
+    {
+        speakernametext.text = NewSpeaker;
+    }
+
+    #endregion
+
     #region Dialog Start Methods
 
     public void StartDialog(int DialogToStart)
@@ -226,6 +235,7 @@ public class DialogBox : MonoBehaviour {
             currentdialoganswers++;
         hasanswered = true;
         dialog.isanswermoment = false;
+        Processed();
         answerbox.SetActive(false);
     }
     public void OnAnswerChangeNextDialog(AnswerButton AnswerButton)
