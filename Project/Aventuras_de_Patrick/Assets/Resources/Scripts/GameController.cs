@@ -202,7 +202,7 @@ public class GameController : MonoBehaviour {
                 }
                 break;
             case 4:
-                dialogbox.SetSpeaker(homemDeCapuzreference);
+                dialogbox.SetSpeaker(patrickreference);
                 break;
             case 5:
                 dialogbox.SetSpeaker(patrickreference);
@@ -218,8 +218,9 @@ public class GameController : MonoBehaviour {
             case 9:
                 break;
             case 10:
-                break;
-            case 11:
+                if (dialogbox.dialog.currentdialogline >= 0 && dialogbox.dialog.currentdialogline <= 2)
+                    dialogbox.SetSpeaker(vizinhoreference);
+                else { dialogbox.SetSpeaker(patrickreference); }
                 break;
         }
     }
@@ -316,35 +317,35 @@ public class GameController : MonoBehaviour {
                 dialogbox.nextdialog = dialogbox.endatdialog;
                 break;
             case 3:
-                if (dialogbox.currentdialog == 0)
+                switch (dialogbox.currentdialog)
                 {
-                    if (dialogbox.lastanswerid < 0)
-                    {
-                        dialogbox.nextdialog = dialogbox.endatdialog;
-                        dialogbox.AnswerButtonsSetNextDialog(1, 2, 3);
-                    }
-                }
-                else if(dialogbox.currentdialog == 1)
-                {
-                    if (dialogbox.dialog.currentdialogline < 3)
-                        dialogbox.nextdialog = dialogbox.endatdialog;
-                    else
-                    {
-                        dialogbox.nextdialog = dialogbox.currentdialog;
-                    }
-                }
-                else if(dialogbox.dialog.currentdialogline == 2)
-                {
-                    if (dialogbox.dialog.currentdialogline < 3)
-                        dialogbox.nextdialog = dialogbox.endatdialog;
-                    else
-                    {
-                        dialogbox.nextdialog = dialogbox.currentdialog;
-                    }
+                    case 0:
+                        if (dialogbox.lastanswerid < 0)
+                        {
+                            dialogbox.nextdialog = dialogbox.endatdialog;
+                            dialogbox.AnswerButtonsSetNextDialog(1, 2, 3);
+                        }
+                        break;
+                    case 1:
+                        if (dialogbox.dialog.currentdialogline < 3)
+                            dialogbox.nextdialog = dialogbox.endatdialog;
+                        else
+                        {
+                            dialogbox.nextdialog = dialogbox.currentdialog;
+                        }
+                        break;
+                    case 2:
+                        if (dialogbox.dialog.currentdialogline < 3)
+                            dialogbox.nextdialog = dialogbox.endatdialog;
+                        else
+                        {
+                            dialogbox.nextdialog = dialogbox.currentdialog;
+                        }
+                        break;
                 }
                 break;
             case 4:
-                if(dialogbox.currentdialog == 0)
+                if (dialogbox.currentdialog == 0)
                 {
                     if (dialogbox.lastanswerid < 0)
                     {
@@ -358,10 +359,32 @@ public class GameController : MonoBehaviour {
             case 6:
                 break;
             case 7:
+                switch (dialogbox.currentdialog)
+                {
+                    case 0:
+                        if (dialogbox.lastanswerid < 0)
+                        {
+                            dialogbox.nextdialog = dialogbox.endatdialog;
+                            dialogbox.AnswerButtonsSetNextDialog(1, 1, 0);
+                        }
+                        break;
+                }
                 break;
             case 8:
                 break;
             case 9:
+                switch(dialogbox.currentdialog)
+                {
+                    case 0:
+                        if (dialogbox.dialog.currentdialogline < 4)
+                            dialogbox.nextdialog = dialogbox.endatdialog;
+                        else
+                        {
+                            dialogbox.nextdialog = dialogbox.currentdialog;
+                        }
+                        break;
+                        break;
+                }
                 break;
             case 10:
                 break;
@@ -459,25 +482,20 @@ public class GameController : MonoBehaviour {
                             actors[i].dialoglines = new int[4] { 0, 1, 2, 3 };
                         else { actors[i].dialoglines = new int[0]; }
                         break;
-                    case 1:
-                        if (dialogbox.currentdialog == 0)
-                            actors[i].dialoglines = new int[5] { 3, 4, 5, 6, 7 };
-                        else { actors[i].dialoglines = new int[0]; }
-                        break;
                 }
             }
             if (actors[i].name == "Homem de Capuz")
             {
                 switch (currentscene)
                 {
-                    case 0:
+                    case 9:
                         if (dialogbox.currentdialog == 0)
-                            actors[i].dialoglines = new int[4] { 0, 1, 2, 3 };
+                            actors[i].dialoglines = new int[4] { 1, 2, 3, 4 };
                         else { actors[i].dialoglines = new int[0]; }
                         break;
-                    case 1:
+                    case 10:
                         if (dialogbox.currentdialog == 0)
-                            actors[i].dialoglines = new int[5] { 3, 4, 5, 6, 7 };
+                            actors[i].dialoglines = new int[4] { 1, 2, 3, 4 };
                         else { actors[i].dialoglines = new int[0]; }
                         break;
 
