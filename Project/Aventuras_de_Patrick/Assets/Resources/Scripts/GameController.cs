@@ -200,6 +200,21 @@ public class GameController : MonoBehaviour {
                         || dialogbox.dialog.currentdialogline == 19)
                         dialogbox.SetSpeaker(developersreference);
                 }
+                if(dialogbox.currentdialog == 1)
+                {
+                    dialogbox.SetSpeaker(patrickreference);
+                }
+               if (dialogbox.currentdialog == 2)
+                {
+                    if(dialogbox.dialog.currentdialogline == 0)
+                    {
+                        dialogbox.SetSpeaker(homemDeCapuzreference);
+                    }
+                    else
+                    {
+                        dialogbox.SetSpeaker(patrickreference);
+                    }
+                }
                 break;
             case 4:
                 dialogbox.SetSpeaker(patrickreference);
@@ -214,13 +229,44 @@ public class GameController : MonoBehaviour {
                 dialogbox.SetSpeaker(patrickreference);
                 break;
             case 8:
+                if(dialogbox.currentdialog == 0)
+                {
+                    if(dialogbox.dialog.currentdialogline == 0
+                       ||dialogbox.dialog.currentdialogline == 1
+                       ||dialogbox.dialog.currentdialogline == 2)
+                    {
+                        dialogbox.SetSpeaker(patrickreference);
+                    }
+                    else
+                    {
+                        dialogbox.SetSpeaker(vizinhoreference);
+                    }
+                }
                 break;
             case 9:
+                if(dialogbox.currentdialog == 0)
+                {
+                    if (dialogbox.dialog.currentdialogline == 0
+                        || dialogbox.dialog.currentdialogline == 1
+                        || dialogbox.dialog.currentdialogline == 2)
+                        dialogbox.SetSpeaker(patrickreference);
+                    else
+                    {
+                        dialogbox.SetSpeaker("");
+                    }
+                }
                 break;
             case 10:
                 if (dialogbox.dialog.currentdialogline >= 0 && dialogbox.dialog.currentdialogline <= 2)
                     dialogbox.SetSpeaker(vizinhoreference);
-                else { dialogbox.SetSpeaker(patrickreference); }
+                else if(dialogbox.dialog.currentdialogline == 3)
+                {
+                    dialogbox.SetSpeaker(patrickreference);
+                }
+                else
+                {
+                    dialogbox.SetSpeaker("");
+                }
                 break;
         }
     }
@@ -479,8 +525,11 @@ public class GameController : MonoBehaviour {
                 {
                     case 0:
                         if (dialogbox.currentdialog == 0)
-                            actors[i].dialoglines = new int[4] { 0, 1, 2, 3 };
+                            actors[i].dialoglines = new int[3] { 0, 1, 2 };
                         else { actors[i].dialoglines = new int[0]; }
+                        break;
+                    default:
+                        actors[i].dialoglines = new int[0];
                         break;
                 }
             }
@@ -488,31 +537,63 @@ public class GameController : MonoBehaviour {
             {
                 switch (currentscene)
                 {
+                    case 3:
+                        if (dialogbox.currentdialog == 1)
+                            actors[i].dialoglines = new int[3] { 0, 1, 2 };
+                        if (dialogbox.currentdialog == 2)
+                            actors[i].dialoglines = new int[3] { 0, 1, 2 };
+                        break;
+                    case 6:
+                        if (dialogbox.currentdialog == 0)
+                        {
+                            actors[i].dialoglines = new int[4] { 2, 3, 4, 5 };
+                            if (dialogbox.dialog.currentdialogline == 2)
+                            {
+                                actors[i].transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
+                            }
+                            else if(dialogbox.dialog.currentdialogline == 3)
+                            {
+                                actors[i].transform.localScale = new Vector3(0.8f, 0.8f, 0.8f);
+                            }
+                            else if(dialogbox.dialog.currentdialogline == 4)
+                            {
+                                actors[i].transform.localScale = new Vector3(1f, 1f, 1f);
+                            }
+                        }
+                        break;
                     case 9:
                         if (dialogbox.currentdialog == 0)
                             actors[i].dialoglines = new int[4] { 1, 2, 3, 4 };
-                        else { actors[i].dialoglines = new int[0]; }
                         break;
                     case 10:
                         if (dialogbox.currentdialog == 0)
                             actors[i].dialoglines = new int[4] { 1, 2, 3, 4 };
-                        else { actors[i].dialoglines = new int[0]; }
+                        break;
+                    default:
+                        actors[i].dialoglines = new int[0];
                         break;
 
                 }
-                if (actors[i].name == "Vizinho de Patrick")
+                if (actors[i].name == "1")
                 {
                     switch (currentscene)
                     {
-                        case 0:
+                        case 7:
                             if (dialogbox.currentdialog == 0)
-                                actors[i].dialoglines = new int[4] { 0, 1, 2, 3 };
+                                actors[i].dialoglines = new int[1] { 0 };
                             else { actors[i].dialoglines = new int[0]; }
                             break;
-                        case 1:
+                        case 8:
                             if (dialogbox.currentdialog == 0)
-                                actors[i].dialoglines = new int[5] { 3, 4, 5, 6, 7 };
+                                actors[i].dialoglines = new int[3] { 3, 4, 5 };
                             else { actors[i].dialoglines = new int[0]; }
+                            break;
+                        case 10:
+                            if (dialogbox.currentdialog == 0)
+                                actors[i].dialoglines = new int[2] { 0, 1 };
+                            break;
+                        default:
+                            actors[i].dialoglines = new int[0];
                             break;
                     }
                 }
